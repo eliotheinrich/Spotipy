@@ -1,0 +1,679 @@
+Song ID                 Name                          Artist                        BPM  
+32OlwWuMpZ6b0aN2RZOeMS  	Uptown Funk                   	Mark Ronson                   	114.988
+28duVDTZdcQ9ppAoVauGlB  	Dirty Work                    	Austin Mahone                 	104.972
+2q95XoeFGixx8b5LNF6Ey1  	Greenlight                    	Pitbull                       	115.067
+4SJJNQYXxpv5AkW7RhO6IM  	Like Water                    	Ladi6                         	101.997
+0CNjoQozZP0mB9rKVdrKGx  	Toothbrush                    	DNCE                          	104.908
+2Ae5awwKvQpTBKQHr1TYCg  	Dynamite (feat. Pretty Sister)	Nause                         	105.055
+0FE9t6xYkqWXU2ahLh6D8X  	Shape of You                  	Ed Sheeran                    	95.977
+5knuzwU65gJK7IF5yJsuaW  	Rockabye (feat. Sean Paul & Anne-Marie)	Clean Bandit                  	101.965
+63tqSZIWPIbNCcOb9A2gHY  	Put the Gun Down              	ZZ Ward                       	105.013
+756La6nWDta09ROtNohCil  	Solo Dancing                  	Indiana                       	218.115
+1x5MjCffpcdHLf65eR9r3T  	Down The Road                 	C2C                           	110.965
+7Ibg5lbwJ43cPbtDOgaUh6  	I Don't Wanna                 	Jane XØ                      	181.905
+31fmFbMiMICIUhzJx7IxXg  	Missing You                   	Betty Who                     	96.156
+1TKWcT101WkRdfr7V94JPw  	Old School                    	Urban Cone                    	95.023
+1mjvh8VwTOLkfCqPYEIZtQ  	Take Me To The River          	Kaleida                       	97.985
+7AaHLYO7OC5KfU4bEVuCm9  	Boom Pow                      	Alexandra Stan                	97.024
+5dKyZWlgjWw1oJgLa4GCZD  	Cool Girl                     	Tove Lo                       	102.022
+5pD9x23lsoQr464mlmaKNJ  	Chained To The Rhythm         	Katy Perry                    	189.888
+6UPup8gxucQXqEawLhmjyg  	Give Me the Beat              	Ghostland Observatory         	109.989
+71cUqXJ3h1r0Ees6YdENLU  	Coffee                        	Sylvan Esso                   	100.049
+1VxnTTuw291SryXGcKY2H5  	Go to Work                    	Tim Omaji                     	203.913
+1qRA5BS78u3gME0loMl9AA  	For What It's Worth           	Buffalo Springfield           	98.883
+45pvLeeK3mcKz1O8hPmYMX  	Molecules                     	Disclosure                    	108.02
+7C1R07FTmgyoTUddAj3sbP  	Showstopper                   	Brandon & Leah                	108.004
+3PVukkbEGmJGoyJG2lfBPP  	Dangerous - Oliver Remix      	Big Data                      	110.004
+56WkfBKWfbvauMgeK8nivR  	Vampire                       	Nitemayor                     	100.037
+0WrYP5tMHcKNFAEwERV916  	Booty Voodoo                  	Lee Coulter                   	114.006
+6IFwG4pnVPcpwX4kXFUbsV  	Influence                     	Tove Lo                       	104.954
+0SGojwNP2zUrgDyeoBQxYO  	The Big Bang                  	Rock Mafia                    	96.01
+6tuhSlOz8YtUfI8MHhVmFP  	Hiy Hiy (Milkman Remix)       	Lostboycrow                   	104.999
+72jbDTw1piOOj770jWNeaG  	Paris                         	The Chainsmokers              	99.99
+0Nsoc2bzsSGbSK6e9tYenj  	Tangled Up                    	Caro Emerald                  	101.02
+0O45fw2L5vsWpdsOdXwNAR  	SexyBack                      	Justin Timberlake             	117.0
+0mM39ptTtRKkeSfwsFKFxt  	Bikini Body                   	Dawin                         	99.053
+6DOBk1Pxe7q8YFI9Ozbrb3  	I Got You                     	Bebe Rexha                    	97.988
+4Ce37cRWvM1vIGGynKcs22  	Starving                      	Hailee Steinfeld              	99.989
+5GTNt44FIgCax5hjsrqNaB  	Jumpshot                      	Dawin                         	97.008
+69ywyIuCJZ6SAYoIaE4DuP  	Shady                         	Adam Lambert                  	99.997
+11BAVEGi1ivJ6JWLqKUNrZ  	Catch & Release - Deepend Remix	Matt Simons                   	104.989
+1FGXVdJ5SKjf8iGuzv6e0m  	Kiss the Sky                  	Jason Derulo                  	110.008
+382kvbAxFp465CDpotZYHL  	Karma                         	ALMA                          	108.961
+6Zo3wgDE076K2AuiGZF3CS  	Fun (feat. Chris Brown)       	Pitbull                       	113.967
+4qqArAiTPueDxIp7cf87h7  	Final Song                    	MØ                           	104.988
+48GBbQiTSlXX5i0cn3iIiJ  	In The Arms Of A Stranger - Grey Remix	Mike Posner                   	104.994
+7fJv128BqCw23AmENDqJuj  	Breathe                       	Astrid S                      	96.991
+0mQnLhHH5WwRc5gtnzLtK6  	Tilted                        	Christine and the Queens      	100.001
+6RotBIo70VVzEcOhvgJGPC  	Diggy                         	Spencer Ludwig                	110.034
+26lWSZtUQvUhTnjqokay5p  	Strokin                       	Clarence Carter               	114.74
+5iyndB9ZD1bl4EOLY9G1S6  	For Those                     	Son Mieux                     	97.971
+5pXfTSZ03ImQ5M50VilQGW  	Velcro                        	Clairity                      	112.028
+7qGlWuMzALpt4wNsOE1D19  	Native Son Prequel ft. Leo Napier (Jenaux Remix) - Jenaux Remix	Gramatik                      	113.012
+4MUNZkVe0VfomuSgY1EJun  	Out Of My System              	Youngr                        	105.108
+5i4m88OA1OrDx3XSfa2xHE  	It Serves You Right To Suffer - The Avener Rework	John Lee Hooker               	106.727
+3y6Mswd1vAF57qqpdIhnQ7  	Be There Soon                 	Elderbrook                    	97.006
+1IDF4jYiuI17U4BW23EoXV  	Stuck On a Feeling            	Prince Royce                  	100.026
+35LDid9nvuYrUyZk5qGD0i  	Belief                        	John Mayer                    	101.348
+3ajvxkgNtQGSX6OqYa5Txf  	Empty Room - Elderbrook Remix 	Big Wild                      	112.083
+0GfcatryU0WEPjsk2wLmHB  	Dust My Broom                 	David Gogo                    	149.03
+0Af4uaPyuA3oIzT1gZC1yN  	Part Of Me                    	Chris Cornell                 	115.002
+7rrjFbSVovHeRV8slG9NEd  	Jamming                       	Juzzie Smith                  	96.067
+4mQVHEjrnuUd7G5IVhSYTk  	Suit & Tie (feat. JAY Z) - [Radio Edit]	Justin Timberlake             	102.034
+3kYhNTBsprEoL1x66oguBj  	The Way You Make Me Feel      	Tay Watts                     	110.102
+1DTjezmTXN2eAbmO0ztPM3  	Bop Bop                       	INNA                          	112.054
+2z4pcBLQXF2BXKFvd0BuB6  	Tip Toe (feat. French Montana)	Jason Derulo                  	98.062
+3xoMRK8egNvtjrCEQieLko  	Am I Wrong                    	Keb' Mo'                      	112.635
+0CEmqvdM96M4aI1obj4t4Y  	New Thang                     	Redfoo                        	100.001
+1PSLlFx0wZ8nTKmKdAjvFK  	The Beast - Digitally Remastered 95	Milt Buckner                  	97.223
+72vWmeqYcT1irKClpbenQm  	1, 2 Step - Main              	Ciara                         	113.053
+68FfvJrKkHMd6Rkvc0Wcl9  	Love You Like A Love Song     	Selena Gomez & The Scene      	117.009
+4CL5yNLGFBRrmwSJXLcTCW  	Homeless Joe                  	Shawn Mullins                 	101.008
+7mldq42yDuxiUNn08nvzHO  	Body Like A Back Road         	Sam Hunt                      	98.963
+4AaX6BvUuqvJ2CGbrV0oKf  	Recess                        	Golden Coast                  	103.005
+6qDZXd4VnDUyLjqyNtrQNa  	At Least a Million            	Unkle Adams                   	98.004
+2EWpa5XnAuSn0sIkSSIhYk  	Wish I Knew You               	The Revivalists               	101.05
+02R2z7JWV0G8VuU1xs58OB  	Come                          	Jain                          	99.989
+5Gu0PDLN4YJeW75PpBSg9p  	Let Me Go (with Alesso, Florida Georgia Line & watt)	Hailee Steinfeld              	103.073
+74fpNVAJrKGQuqHETi4WSt  	Tennis Court                  	Lorde                         	89.993
+0fK5R7Z44yzNHXfcv2QCfK  	Sober                         	Lorde                         	107.923
+0mBKv9DkYfQHjdMcw2jdyI  	Chunky                        	Bruno Mars                    	202.103
+3uXgvfwG946EZG9N0NkhgR  	Love Yourself vs F*CK Yourself - Love Yourself Response	Yo Preston                    	99.971
+6tF92PMv01Ug9Dh8Rmy6nH  	New Rules                     	Dua Lipa                      	116.073
+0l0CvurVUrr2w3Jj1hOVFc  	NO                            	Meghan Trainor                	92.135
+4Ro98RCK90oHqqSZUnTFq5  	Strip That Down               	Liam Payne                    	106.023
+4iLqG9SeJSnt0cSPICSjxv  	Attention                     	Charlie Puth                  	100.041
+26a1ih91NiFLHgJo4Tk2Dw  	Young & Stupid                	Travis Mills                  	107.008
+5ZpDiWqCG93McsnuHu9uCR  	The Safety Dance              	Men Without Hats              	100.2
+6li8t6gDiKTETNHzTmteFF  	Mad                           	Anthony Hamilton              	189.823
+3Fo9Oar46BeO7tepyqzDpD  	Fortress                      	Coleman Hell                  	100.005
+2tzLjiRec9KtzdhgyVYN6Z  	Wonderland                    	Caravan Palace                	104.013
+3V82aakh1ICJi0Dn7XVRln  	I Sing The Blues              	Etta James                    	96.521
+5YAlAZZTcLq2DsHJFMNniq  	Back It Up                    	Caro Emerald                  	107.972
+6YEOmCsXSk9ZPE0FkcCiuQ  	Layla                         	Eric Clapton                  	94.04
+0ofbQMrRDsUaVKq2mGLEAb  	Havana                        	Camila Cabello                	104.992
+2FK1qmw8XNBqUe5CcgTVnE  	Guillotine                    	Jon Bellion                   	98.127
+4pg1cDsTo07Gzy4rWu2HZT  	Blues Stew                    	Kenny Neal                    	116.275
+1YoHclLiSPHSsCTZHPVE7x  	Creeper Returns               	Mark Hummel                   	176.266
+4fcldiaLuLtByymqHk8XDX  	Vibe.                         	JoJo                          	101.066
+0FsdP8q6zW9RKBU8faHMxU  	Jelly                         	Opiuo                         	103.008
+2UjGyCvayHjGihV3oLhD8a  	It Don't Matter               	Donavon Frankenreiter         	104.982
+1ZYq5a285ZYa8jYndnufqX  	Muzik                         	Eric Benét                   	99.03
+22VdIZQfgXJea34mQxlt81  	Can't Feel My Face            	The Weeknd                    	108.0
+7oGZAicScQt96OAW4AruYy  	Want to Want Me               	Jason Derulo                  	114.0
+5ULRlgiSPSKTaJN1vU9yso  	Shape of You - Acoustic       	Ed Sheeran                    	101.0
+1UhY3dJlChFoC9dOkD4ZzO  	A Natural Man                 	Lou Rawls                     	112.0
+5uCax9HTNlzGybIStD3vDh  	Say You Won't Let Go          	James Arthur                  	85.0 
+1vlt1z8Ez6SueIfCE2pm9A  	Going Home                    	Ásgeir                       	180.0
+43jBqV3j3Xi1g6wO0bhIMd  	Now and Later                 	Sage The Gemini               	107.0
+0fGh0trRN1xz3s41r7V5ce  	Shake That                    	Eminem                        	107.0
+4vLRCGOBz4zIS8nEHk5v9j  	I Feel Good                   	Thomas Rhett                  	107.0
+276zciJ7Fg7Jk6Ta6QuLkp  	Come Down                     	Anderson .Paak                	98.0 
+55h7vJchibLdUkxdlX3fK7  	Treasure                      	Bruno Mars                    	116.0
+4FjPJhlEIWB9QVKFTc78Nn  	Cross My Mind                 	A R I Z O N A                 	93.0 
+5pqUc0SPA1EmhdOyD9Ou45  	Sexual                        	NEIKED                        	108.0
+1wjzFQodRWrPcQ0AnYnvQ9  	I Like Me Better              	Lauv                          	92.0 
+4CGGIk81BvfCZiscwFP6t0  	Sex                           	Cheat Codes                   	103.0
+6YVpU5vVxezJCYeQUxIkRT  	What Lovers Do (feat. SZA)    	Maroon 5                      	110.0
+3Tqi3BMq3bhuX6hT36M0Ni  	Money                         	Leikeli47                     	100.0
+4bB58Xbl7XnCtOR085gLW4  	Sexy (Where'd You Get Yours)  	Kool & The Gang               	105.0
+6EUDUDQP5ynE3g5SWCA8sc  	Sway                          	Danielle Bradbery             	97.0 
+4CdfFYzaAJ0y0beKzmgJSn  	No Roots                      	Alice Merton                  	116.0
+6OnafwIebauAJfazIBkaDL  	La Fuega                      	Alexandra Stan                	100.0
+2MHdIP9qDvpHDsJfIXp0j6  	Lips                          	Marian Hill                   	79.0 
+7BKLCZ1jbUBVqRi2FVlTVw  	Closer                        	The Chainsmokers              	95.0 
+7tVQihtECJIEpQX0osLRwo  	Paradis Perdus                	Christine and the Queens      	180.0
+7vRriwrloYVaoAe3a9wJHe  	i hate u, i love u (feat. olivia o'brien)	gnash                         	93.0 
+4SlMRlPLJzWFaTcmkMSiJN  	Let the Rhythm Just           	The Polish Ambassador         	98.0 
+56urjuqz1NIOKhhCjQhVw0  	Suga Boom Boom                	Down3r                        	95.0 
+7yGg7Lk289zgz2RJvlXfvg  	Pink Champagne                	Nick Lopez                    	110.0
+280o4hq7S2fnbWE0aeQ40d  	Sugar, Honey                  	Eklo                          	108.0
+4Ccmop9CkDfU6PWtvOEAbn  	River                         	Charlie Puth                  	100.0
+2M9ro2krNb7nr7HSprkEgo  	Fast Car                      	Tracy Chapman                 	104.0
+64WaZQ8xhkNHtkunRzpKNf  	Dusk Till Dawn - Radio Edit   	ZAYN                          	180.0
+7GfhZZq8plOVTeqsDMbftc  	Higher Higher                 	Justin Timberlake             	90.0 
+0fjKE697Z8WQ33XSJKbfQn  	repercussions                 	Bea Miller                    	101.0
+5CLGzJsGqhCEECcpnFQA8x  	These Days (feat. Jess Glynne, Macklemore & Dan Caplen)	Rudimental                    	92.0 
+4BATUkk8UMuiMb6lr5CH5G  	Call Me                       	NEIKED                        	106.0
+5ZrrXIYTvjXPKVQMjqaumR  	Loud Pipes                    	Ratatat                       	88.0 
+51wCNmkIuvVMoCZWUIKWGE  	Just One Dance                	Caro Emerald                  	110.0
+2r5Y4sy3vOEAn2DJCdRGo5  	I Want You Back - Shaparder & LRX Remix	The Jackson 5                 	105.0
+094RugjgLW6CdPLOJctBZ3  	Boom Clap                     	Charli XCX                    	92.0 
+32amQ0lTNaApjW8IgeIBpI  	Surrender                     	Daniel Johns                  	94.0 
+5mxTOMM0NiRud8VdBxbA2o  	Bloodstream                   	Ed Sheeran                    	91.0 
+7ilidJqOorUA8FtxoTMDPN  	Shape of You                  	EZA                           	176.0
+3h5IIiL9vK5aR0DZO6jD7D  	Closer                        	Lemaitre                      	92.0 
+6dlpABcXrQKRU9G00i6Zba  	Back To Sleep                 	Chris Brown                   	93.0 
+6qcBjsxbNHDtO1fWIDe48i  	How I Want Ya - Dawin Remix   	Hudson Thames                 	101.0
+19iszP3kTNtHoqbNoXeWQf  	Burn With Me                  	Whilk & Misky                 	101.0
+5EjG2jgzovOhN3OzWCcbdu  	Gravity                       	Leo Stannard                  	95.0 
+79GsUxLyzxgnN4I1E11dtO  	Make Me Feel                  	Janelle Monáe                	115.0
+5uuJruktM9fMdN9Va0DUMl  	Play That Funky Music         	Wild Cherry                   	109.0
+0rHVd8h0cFwgLgPFem6S60  	Girls Like (feat. Zara Larsson)	Tinie Tempah                  	120.0
+2iFI5EslxJFXqF8VdXklnu  	Don't Wait                    	Mapei                         	99.0 
+1FlealdR42VPhwPWjxSlah  	Vultures                      	John Mayer                    	98.0 
+5gENVZBJVfULTzAYhJTtH6  	Nobody                        	Niia                          	102.0
+4pr2A1vgqaGJ1yj6hFr3aE  	13                            	Allan Rayman                  	104.0
+3i6qNxyVgIdUZTTi5m25EM  	Bitch                         	Meredith Brooks               	96.0 
+3nS6zA7laKRAvnpFi7Gu9g  	Better With You               	Austin Mahone                 	100.0
+7fCNUWi6uflDTQ08srxMZk  	NO EXCUSES                    	Meghan Trainor                	115.0
+4BdGO1CaObRD4La9l5Zanz  	Sit Next to Me                	Foster The People             	97.0 
+67Nf4Nsr2Nm5CFfJgqwDb0  	Penthouse Floor               	John Legend                   	90.0 
+4iF77hjMxwj6hkGMxlk2C0  	Pink Medicine                 	Bearson                       	103.0
+09ts3GnICqYEU5PkQCpJK3  	Say Something                 	Justin Timberlake             	97.0 
+3vwr9vfPolosx0Yv2otKtP  	Smile & Wave                  	HEDEGAARD                     	97.0 
+7dQBTxC0TpPpFr5INaBNcD  	Obsession                     	OK Go                         	104.0
+7xYSmSjTOEBQdZ9RpMciMm  	Girl Gang                     	Gin Wigmore                   	106.0
+02dmw9vMp9UOQ3hDvRmxWL  	Prove It to You (feat. Lenachka)	Kris Allen                    	102.0
+2QTp2o96FG61yVAxZTHqSV  	Casanova                      	Palm Trees                    	106.0
+3XJhDig11wzszomesWNOnV  	Slow Hands - Basic Tape Remix 	Niall Horan                   	114.0
+08bNPGLD8AhKpnnERrAc6G  	FRIENDS                       	Marshmello                    	95.0 
+1XUiFMK48Yy4fgds8l9aLH  	Oh Lord                       	MiC LOWRY                     	96.0 
+1klGbW5a9qTBFUjFfddbmU  	Can't Sleep Love              	Pentatonix                    	95.0 
+2BNh9LGk40NYJxGMhuhzRC  	Clothes Off - Great Good Fine Ok Remix	Ria Mae                       	104.0
+2PAbKIGmJ4g8W04A9JnvUI  	Love Is Blind                 	Nick Fradiani                 	93.0 
+3sMleqdCDalZ6xsAQe8xuY  	Booty Swing                   	Parov Stelar                  	113.0
+6wtcxwSJs82tpdeIoj93LF  	While I'm Alive               	STRFKR                        	100.0
+2iNIdJqx4zvsOA1eY8I4QZ  	Kings And Queens Of Summer    	Matstubs                      	110.0
+7zsXy7vlHdItvUSH8EwQss  	Cold Water                    	Major Lazer                   	93.0 
+2A37BYWvwoV1ayixGNE5Xs  	Can't Get You Out Of My Head - Acoustic	Kaiak                         	113.0
+6KufYdEosLjK6bEKPyz4oA  	Freedom                       	Anthony Hamilton              	112.0
+6MDijuuArPJv1vbp7K1x3f  	Genghis Khan                  	Miike Snow                    	94.0 
+2XELtFPg5H2Xmg6eas6dII  	High On Humans                	Oh Wonder                     	90.0 
+51NFxnQvaosfDDutk0tams  	bellyache                     	Billie Eilish                 	100.0
+30PYooEaPNsfEWiaTLwKWE  	The Itch                      	Keb' Mo'                      	96.0 
+5kLTTuzgLUFlGRUIfd8phC  	Cain                          	Chris Thomas King             	90.0 
+7FX3ZWE70VRjsprg5oeECc  	Talk Too Much                 	COIN                          	104.0
+7l3MZPlCyfO7wXXH2X0JRE  	Apple Pies & Butterflies      	Blue Wednesday                	100.0
+1kXmApTm4wonqscYBoLwxj  	All Hands on Deck             	Tinashe                       	97.0 
+39QnkfVCta8UnOx9yLMLnr  	Chocolate                     	Serebro                       	190.0
+3yWsWi2PAo9s6elIhnywIS  	One Foot                      	WALK THE MOON                 	100.0
+4Xx0J00u90QvnG3rwz4Itp  	Adderall                      	Max Frost                     	100.0
+3FtYbEfBqAlGO46NUDQSAt  	Electric Feel                 	MGMT                          	103.0
+77dRMsf3qPiG9DRFZfRg3p  	Vowels                        	Capital Cities                	111.0
+1Cicn7ce1xoVlq8gthE2eX  	Best Friend                   	Sofi Tukker                   	102.0
+6eWsgrQLZhLqy5VfGB9iFs  	Gold - Thomas Jack Radio Edit 	Gabriel Rios                  	103.0
+7MXVkk9YMctZqd1Srtv4MB  	Starboy                       	The Weeknd                    	186.0
+77RFXda1NeUkBIor8iZYJG  	Peeping Tom - Original Mix    	Jamie Berry                   	100.0
+3gFS9CKU70Wm7vAoA0O1uW  	Hard Time                     	Seinabo Sey                   	192.0
+7AHfhgECq0d33P7JisJryL  	Hangover                      	Charlotte OC                  	97.0 
+1vvNmPOiUuyCbgWmtc6yfm  	My Way                        	Calvin Harris                 	120.0
+2meEiZKWkiN28gITzFwQo5  	Into You                      	Ariana Grande                 	108.0
+3dsc6EVmqdKIsJAmnD8GqN  	Reciprocate                   	Rationale                     	100.0
+4zZW2v55rIvcDl2PJdLxnE  	Abîmée                      	Léa Castel                   	92.0 
+3biFdxByHgUhTbp2dG89zK  	Dance Like We're Making Love  	Ciara                         	96.0 
+42rB0s3mv8BpSKVBVkULvY  	Work The Middle               	Alex Aiono                    	98.0 
+2rDwdvBma1O1eLzo29p2cr  	Whataya Want from Me          	Adam Lambert                  	186.0
+4vDBJeeQCbhP9FaPPMsYkY  	Give Me One Reason            	Tracy Chapman                 	100.0
+1sSNWjLtY4GwyhqAwAnPD9  	Sit Still, Look Pretty        	Daya                          	182.0
+1p80LdxRV74UKvL8gnD7ky  	Blank Space                   	Taylor Swift                  	96.0 
+4BCIFhoAKkyBykKMxj1yCy  	Little Bird                   	Far East Movement             	109.0
+1zi7xx7UVEFkmKfv06H8x0  	One Dance                     	Drake                         	104.0
+3EofjRgUI1WrzqqtLb8NoF  	Cheyenne                      	Jason Derulo                  	100.0
+7pYFPMeK0TnaTGdS6qOtEr  	Waterfall                     	Stargate                      	183.0
+3B54sVLJ402zGa6Xm4YGNe  	Unforgettable                 	French Montana                	98.0 
+4zzi2eD2cEPpQ3a307mPPj  	Billie Jean                   	The Civil Wars                	90.0 
+6tnogJ3cjCMnqowKWDDhlc  	Let's Stay Together           	Committed                     	100.0
+0bXpmJyHHYPk6QBFj25bYF  	Intro                         	The xx                        	100.0
+0hIGUS1PQbv5NIrHIf6Fza  	Sweet Emotion                 	The Kooks                     	98.0 
+1aiDlPLPljMFUylWjMZras  	Something Like Olivia         	John Mayer                    	99.0 
+2ZheGCM31EbCwUfGs0WJB1  	Barton Hollow                 	The Civil Wars                	91.0 
+64k3FxHzVDU6NMGFt3RG1z  	Dance Like Michael Jackson    	Far East Movement             	115.0
+4p6llmWOfcNKYItgIoteBl  	The Weekend                   	Eden xo                       	102.0
+57Y51hxqMn2j3dosW75R6n  	I Can´t Go On                	Robin Bengtsson               	109.0
+5C5gvDZsl6d8bh89URfKHr  	Pork Soda                     	Glass Animals                 	96.0 
+6pQadiopoIsS4x78tjSkJt  	LA Girls                      	Charlie Puth                  	100.0
+1lsBTdE6MGsKeZCD6llNu7  	Done For Me (feat. Kehlani)   	Charlie Puth                  	112.0
+3vv9phIu6Y1vX3jcqaGz5Z  	Roses                         	The Chainsmokers              	100.0
+1DWjGwyrVdenkn3GB2Bm4C  	Comfortable (feat. X Ambassadors)	The Knocks                    	115.0
+1OcCoDKGaQyuBQBYWoGSbo  	Take Me Back                  	Christopher                   	98.0 
+2ACOWPLUe4A4KuQ5ioD2od  	That's My Girl                	Fifth Harmony                 	202.0
+1rnhEFrn86ZZlQoMNuZeMd  	Fast Lane                     	Rationale                     	96.0 
+0dhZHpEx7loKBRPPGJ7TnN  	Can't Figure It Out           	Slaptop                       	100.0
+6ZNo7Vi0TE9ul1fhKd4S1M  	Pray For Me (with Kendrick Lamar)	The Weeknd                    	101.0
+0nAQSPlqQ89ok7g2uzfHgy  	Feelin' Myself                	will.i.am                     	96.0 
+6L778PA16SuyYvFhqnMndY  	Starboy - Kygo Remix          	The Weeknd                    	93.0 
+3yfqSUWxFvZELEM4PmlwIR  	The Real Slim Shady           	Eminem                        	105.0
+38xWaVFKaxZlMFvzNff2aW  	Breakeven                     	The Script                    	94.0 
+3uvypVUsiIr1B0BccIcsEh  	6 AM                          	J Balvin                      	176.0
+11ySLUasdCrByA0FRKukBd  	Movin' and a'Groovin'         	Sam Cooke                     	118.0
+5OA2EQqiP7r7Zcl6nw8ICW  	I Need A Dollar               	Aloe Blacc                    	96.0 
+0HqkqqlMMKeyhC3I7mNV7b  	Champagne Problems            	Nick Jonas                    	108.0
+3xQxkoVcecmZ18ooF5CwFo  	Havana Lights                 	Shavi                         	108.0
+3QmOiZF7IzJJkHnahh5Ea0  	History                       	Olivia Holt                   	101.0
+6wIuXffmapTD8RQgo2sFdL  	Not Above Love                	AlunaGeorge                   	96.0 
+12GEpg2XOPyqk03JZEZnJs  	It Ain’t Me (with Selena Gomez)	Kygo                          	100.0
+5lZoZuFYQpsRy8D5iD1MG2  	Dynabeat                      	Jain                          	110.0
+6eUncuJutsFi9BGO1JaBHh  	If I'm Lucky                  	Jason Derulo                  	112.0
+2nHYDKaWCLNGYMPF0mNLCr  	Bonbon                        	Era Istrefi                   	126.0
+5MeJdfZ0TTyTHR9TkKawTU  	Part Of Me                    	PHASES                        	106.0
+1ulDt6ySVbMbzZCBO6hSfb  	Little Talks                  	Julia Sheer                   	97.0 
+5VNvAGNcfsvbhXFbvKUuac  	Who's Been Sleeping In My Bed - Solo Collection Album Version	Glenn Frey                    	109.0
+7LLouD7gdDYmmar1bfaF8V  	Bleeding Love                 	Leona Lewis                   	104.0
+0e4XFLZb0Cq3q6npPeYxVO  	Bright Lights                 	HAEVN                         	98.0 
+0Nw0Z2VXKuiFSikzWvgqR6  	Therapy                       	Kim Cesarion                  	100.0
+1DAf0U9yCAAFwEgtJeMmgr  	Make My Love Go (feat. Sean Paul)	Jay Sean                      	107.0
+1Fxp4LBWsNC58NwnGAXJld  	Down With The Trumpets        	Rizzle Kicks                  	115.0
+5G1RhMTSAzFSmTkeUbKlBF  	My Trigger                    	Miike Snow                    	99.0 
+1P95TYjjmZdZVlF5ZjCvuA  	Wild                          	Marian Hill                   	108.0
+3ZFTkvIE7kyPt6Nu3PEa7V  	Hips Don't Lie                	Shakira                       	100.0
+7e89621JPkKaeDSTQ3avtg  	Sweet Home Alabama            	Lynyrd Skynyrd                	98.0 
+1AWQoqb9bSvzTjaLralEkT  	Rock Your Body                	Justin Timberlake             	101.0
+5c0Wgs68kjgViFCVDGLB2I  	LoveGame                      	Lady Gaga                     	105.0
+1yrodVH5NhUFyuOt1f6Der  	Triggerfinger                 	Donkeyboy                     	90.0 
+5T9qnmnoeJ7NitipUSnsaA  	Lay Low (feat. David Benjamin)	Conro                         	90.0 
+73cAKC1NbxHuFPcQ4slGtl  	Dennis Rodman                 	mansionz                      	96.0 
+62LJFaYihsdVrrkgUOJC05  	Kiss                          	Prince                        	111.0
+0nlyO7lNTOYB0gjDp7NI7H  	Hands Up (feat. DNCE)         	Merk & Kremont                	108.0
+0bFBW9FwURGfjBpoR19L2r  	Can You Hear Me Now           	Brandy                        	100.0
+3XEGHZjgdMA5xlwrXucXvT  	Hush Hush                     	Etta James                    	94.0 
+1uH1Nd8vet2uoZSDFSDwbh  	Up Down (Do This All Day)     	T-Pain                        	97.0 
+0r2pUCPPwdNxhS2myG7aU5  	Say So                        	Terror Jr                     	98.0 
+3mLW9wLxYnbls1LiT8DGQ8  	If I Ain't Got You            	Scary Pockets                 	87.0 
+0sguop6x3D6B21kLVL7RUR  	Unlonely                      	Jason Mraz                    	98.0 
+5HQVUIKwCEXpe7JIHyY734  	Young, Wild & Free (feat. Bruno Mars)	Snoop Dogg                    	95.0 
+2DQqAXXV05qI4vbIt0jFeV  	Knockin' Boots - Re-Recorded  	Candyman                      	102.0
+0mxoXsr14ILAYcXZBMJcOs  	Dessert                       	Dawin                         	97.0 
+76cy1WJvNGJTj78UqeA5zr  	IDGAF                         	Dua Lipa                      	97.0 
+6FE2iI43OZnszFLuLtvvmg  	Classic                       	MKTO                          	102.0
+2QI9NIlDL1Ffb5W5ygfS9z  	Sad Story (Out of Luck) - Extended Mix	Merk & Kremont                	102.0
+5jT4i9GVPWj3DCDHjRE6OC  	Zidovi                        	Dara Bubamara                 	98.0 
+3TZwjdclvWt7iPJUnMpgcs  	Jump Around                   	House Of Pain                 	107.0
+0BOEuUKoHdy8in20fG5smd  	Messy                         	Kiiara                        	108.0
+4tCtwWceOPWzenK2HAIJSb  	Work from Home                	Fifth Harmony                 	105.0
+0P2Dxoy0mdzM9NlFQoLZbc  	Hollywood (feat. Snoop Dogg & Jamie Principle)	Gorillaz                      	104.0
+11krDFDYoGmcrRyLVkl7p2  	The Closing Song              	Red Peters                    	114.0
+6dxtWXjVRRP7w3m59HhXUw  	Ride - Acoustic               	Freja Kirk                    	96.0 
+7Huqz8HsG7j2gk9INLvhRI  	Twerk It Like Miley - Hedegaard Remix	Brandon Beal                  	105.0
+1kJtfldK9F7XmsSiSNlbth  	Woman                         	Kesha                         	115.0
+6FJN9EiWE5Fh20WYrHfB5N  	Boys & Girls                  	will.i.am                     	108.0
+40MZAJ7tusEFSEEGGHelXB  	Beachside Lover               	Josh Tobias                   	107.0
+0CUbGs61barxaLWZkSm8EO  	Perfect For You               	Rachel Platten                	102.0
+6N4uh2uoOiDLKJRjMvi6mz  	Inhale Exhale                 	Nao                           	93.0 
+0bhcoMEKNsWeZRKc6EUyWK  	Whatever U Like               	Nicole Scherzinger            	93.0 
+42jdMDMVYSJYpAGjM2bx6F  	Cool                          	Daya                          	196.0
+69aKOcubeWyEuQMSdmN6fJ  	Sexy Playa Face               	Danny Maika                   	106.0
+7HhR1L61r3Z3PMWRRJSDHe  	Dangerous                     	Ying Yang Twins               	115.0
+0c2tta0LOg0UqLsL04uXWa  	Feel It (In the Air Tonight)  	Naturally 7                   	97.0 
+270TVH45y3aFzNSZQt1wsC  	Starstruck                    	Lady Gaga                     	103.0
+5uynFIrGkdfGUQ95VJMzWd  	Little Talks                  	Leify Green                   	141.0
+6l0Ky2PycJV1Bz88kFeVGL  	Capital Letters               	Hailee Steinfeld              	100.0
+1L3NV7VrCiuE8C5QlhdeQL  	Filthy                        	Justin Timberlake             	97.0 
+5bgwqaRSS3M8WHWruHgSL5  	8TEEN                         	Khalid                        	105.0
+4ODnJrz0C3AJ4DFv8YQhJ8  	Sunrise (feat. Jason Walker)  	Kygo                          	100.0
+3YfX75Ub9t5Wf2pxGXjsPl  	Don't Cry On My Shoulder      	Sam Cooke                     	113.0
+4mJDfMcT7odIUjWlb2WO4L  	...Baby One More Time - Recorded at Spotify Studios NYC	Ed Sheeran                    	105.0
+1COvXs6jaykXC73h9OSBVM  	BO$$                          	Fifth Harmony                 	103.0
+1XkZvrIfvDMvIz8X7FbyPu  	Chasin' After You             	O-Town                        	115.0
+41Fflg7qHiVOD6dEPvsCzO  	Worth It                      	Fifth Harmony                 	100.0
+4TZ1xAwR0kJNN20H6GW82h  	Off to See the World          	Lukas Graham                  	107.0
+4rUTAkOU7OkVGeQuyQCHhF  	Sledgehammer                  	Fifth Harmony                 	100.0
+2zEv4DyR8mVAWVc6Grs7S2  	Double Vision                 	Prince Royce                  	100.0
+1l41brqhku5arGsUHCP657  	Emotions                      	Virginia To Vegas             	102.0
+6kPJZM97LwdG9QIsT7khp6  	Solo (feat. Demi Lovato)      	Clean Bandit                  	105.0
+3aLWuWKHaTV4Ok7LKvXRYn  	Let Me Hold You (Turn Me On)  	Cheat Codes                   	103.0
+4E5IBDRu8kJbzUv1qaZM1t  	Forget to Forget              	SHY Martin                    	111.0
+36YCdzT57us0LhDmCYtrNE  	Rockin’                     	The Weeknd                    	113.0
+3yRV0V5l87Q6EyEnv3d7YJ  	Collarbone                    	Fujiya & Miyagi               	113.0
+0iBGgTRtJU8XEjdRL8ZFQi  	Classic (feat. Fetty Wap & POWERS )	The Knocks                    	102.0
+1rwRQ8EfWU8XkXlWz0uH1F  	Nevermind (Alright)           	Dennis Lloyd                  	89.0 
+4xNztUISsFQFNOLeuRICpK  	Sad Story (Out Of Luck)       	Merk & Kremont                	102.0
+7zb2TzZwpXuBJutFIqS6lA  	Money                         	Mat Kearney                   	94.0 
+3Aisht63nuyccguwcW3ek5  	Pum Pum (feat. Kap G & Play-N-Skillz)	Messiah                       	92.0 
+6I7fCHvkxwxONCh9jpnz2K  	In The Arms Of A Stranger     	Mike Posner                   	95.0 
+7GTk1UOKNmCDgB6HMNZgkp  	Hate That I Love You          	AJ Mitchell                   	103.0
+6gttjO6hxvBiPI9YcQtG4g  	M.I.A.                        	Why Don't We                  	105.0
+63yC2v7WsqgLuEuhJMVl5T  	Private Dancer                	Julian Perretta               	110.0
+4y74USWTC1uZ5B9KzchDpR  	Whatchugot                    	Caro Emerald                  	108.0
+7pPciGaYxP2FsFQCIBDEhb  	Savage                        	Bahari                        	98.0 
+7LqT7LqKsCh6epYR9UdAlP  	Five Minutes                  	Her                           	100.0
+0FWhGmPVxLI6jOVF0wjALa  	Rapper's Delight              	The Sugarhill Gang            	111.0
+1yWc4aC8zphMCDmwZ9Ch7K  	Shake Your Body (Down to the Ground) - Remastered Single Version	Michael Jackson               	118.0
+6tv43DiBgTHgC0dtID2MXW  	Superlove (feat. Oh Wonder)   	Whethan                       	98.0 
+7CNRVEMSXo0fRJwZyM0L2n  	Hometown Girl                 	ZHU                           	100.0
+7BZeyb1wPX9t78rWbLWiky  	Karma                         	Years & Years                 	105.0
+2oLo4vGUIP3eJ9T001keTu  	Wolves                        	Rag'n'Bone Man                	104.0
+0Z9HQ8YvHqdeOjTwsR3cS7  	Two High                      	Moon Taxi                     	107.0
+0a7comRgwUNd6voe9Ps28l  	The Sea                       	MØ                           	98.0 
+3h35N51qRKOY1Tj5kdYkk2  	Taste                         	Betty Who                     	100.0
+1zqllQUMCgMaInr0CzFVll  	Wake Up Call                  	Maroon 5                      	164.0
+33IOhptvC2Qoy2UhjiHXLV  	Flames                        	David Guetta                  	94.0 
+3uJsg8xIH7OpWHxuJaMLJX  	Ride Or Die (feat. Foster The People)	The Knocks                    	105.0
+606sYb1zQnoVWnUvELlkaR  	Cheap Wine                    	The Vamps                     	109.0
+76c9yn9NDJDYswNcJIBT7c  	We Don't Need To Dance        	Castelle                      	102.0
+6x9FT7XG67QdnCcu9vtrmy  	Bitchcraft                    	Alexi Blue                    	98.0 
+29ZJZd9bPkC5sUF0PsB5ky  	Hear My Call                  	Cody Kahmar                   	98.0 
+0b6wdul3A5sQNpIOv03OxP  	Ocean Drive                   	Duke Dumont                   	115.0
+3V41gUUtnERHm8GpBCYw4w  	Beautifully Broken - Dave Aude Rhythm Mix	Plumb                         	105.0
+45aBsnKRWUzhwbcqOJLwfe  	This Is Me                    	Keala Settle                  	192.0
+1SRG3Nn4Sr7y6IkJl3PaZ5  	Slow Dance                    	Natalie                       	110.0
+7H37mYZjiq67hyWMrzD1Ll  	Compass Or Map                	Robin Thicke                  	97.0 
+0ZYcjsB94VR5vKrF8pgFvl  	You Can Cry Tomorrow          	Betty Who                     	106.0
+6QymtEqf8Iif9lC4PFSGhg  	Dance With Me                 	Tank                          	110.0
+23BcyG7PMTvNbssixaweq8  	Exposé                       	Luke James                    	102.0
+28r9sD2b6FluK7YHjTJ0fl  	Break a Sweat                 	Becky G                       	109.0
+4fiIc7b6w3DL4xVftJjAaA  	Ruby Mae                      	Indigo Swing                  	159.0
+27TQsZpLTkMlFMoSJcKZFc  	Good Times                    	Elderbrook                    	105.0
+2KZzgv1Lr6fbFMJfE3G0hf  	Remember                      	Youngr                        	105.0
+7KJY33tjsUgOHGdqsN2aBi  	Did You Miss Me?              	Olly Murs                     	107.0
+7HbwANSdBmfQYCBvBZgvqJ  	Crush                         	Campsite Dream                	104.0
+0dKDwt7DP0uH4XyGaVMtVP  	Fire In My Soul               	Walk Off the Earth            	117.0
+3xxlh9UoTkFv4TvHnaoNyn  	Russian                       	Caravan Palace                	125.986
+0thLhIqWsqqycEqFONOyhu  	Lone Digger                   	Caravan Palace                	123.989
+79cuOz3SPQTuFrp8WgftAu  	There's Nothing Holdin' Me Back	Shawn Mendes                  	121.996
+2rWMZpcCRaKRGigUw8MXzr  	Me and My Guitar              	Tep No                        	120.0
+2Tkq5t9RZQubezdV9jN3cd  	Big Girl Now                  	New Kids On The Block         	122.944
+4A5prYAKn64jmm1R21tke7  	Lose Control                  	Hedley                        	119.974
+2pJZ1v8HezrAoZ0Fhzby92  	What Do I Know?               	Ed Sheeran                    	115.092
+0UGjXqbDwWICRpCutk6wql  	How Long Can a Fool Go Wrong  	James Cotton                  	119.152
+63Qco1ncI5U4qEUnxL1DsH  	Living                        	Bakermat                      	121.98
+3KwwE4sgCzMaKWq6QBebmX  	Me Too                        	Meghan Trainor                	123.829
+6LiDErJMV0ZK3sHEAw92XC  	The Way You Move              	OutKast                       	125.982
+6YwLgicpvVuMt1eE2OldwQ  	Five More Hours - Deorro x Chris Brown	Deorro                        	127.961
+2S5LNtRVRPbXk01yRQ14sZ  	I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)	Flo Rida                      	118.004
+6CohXotXOrMVAB0bSPzqzm  	The Trouble With Us           	Marcus Marr                   	121.106
+7GSuJlP3XN550RQD8t88mj  	No Roots                      	Alice Merton                  	115.958
+2KklXplRtxMsBYo474Es0w  	Be Mine                       	Ofenbach                      	123.024
+7GmiJVBAzWNikX5VkNQg85  	Hawaiian Roller Coaster Ride - From "Lilo & Stitch"/Soundtrack Version	Mark Keali'i Ho'omalu         	114.542
+2bJvI42r8EF3wxjOuDav4r  	Time of Our Lives             	Pitbull                       	124.043
+4cS2HQ6jK80vqdY9ofpztx  	She Wolf                      	Shakira                       	121.983
+76hfruVvmfQbw0eYn1nmeC  	Cake By The Ocean             	DNCE                          	119.001
+07Iv5Rglfi4NpDZThFPuUz  	Baby Workout                  	George Benson                 	127.096
+77Ia9N4Gsw38dvqlbFBs7f  	All Around The World          	Lou Rawls                     	118.758
+32FX4D4eT8LFP07QvlhSn8  	2 Heads                       	Coleman Hell                  	120.043
+7xRNsqOQOgWbHV1nbXnfXN  	Boom Boom Pow                 	The Black Eyed Peas           	130.09
+49eplIHvgCLY8HAgcaWrUb  	Fireball (feat. John Ryan)    	Pitbull                       	122.951
+5tf1VVWniHgryyumXyJM7w  	Sugar (feat. Francesco Yates) 	Robin Schulz                  	123.063
+66F1oPi4qV7lQbVoJpRlp5  	Ain't Nobody (Loves Me Better)	Felix Jaehn                   	117.963
+50ywh68mIcGCPA0tGmOEeL  	Do Your Thing                 	Basement Jaxx                 	124.927
+3JrS9NvJaVZnBrP9siMsip  	Domino (feat. Fitz)           	ZZ Ward                       	120.045
+6h2WKGC3cXXm58BsY77MMO  	Masquerade                    	Backstreet Boys               	123.998
+4o2UcMhDLHpi09m8esAVqT  	Hold Up, Wait a Minute        	ZHU                           	115.991
+4PvD06Pmbm2rHG2JjSlElF  	Beggin For Thread             	Banks                         	107.96
+77dwRzKegOkVtlHajKnDCb  	Find You                      	Nick Jonas                    	125.966
+6K8qKeWo5MsFED7wCR6Kop  	Sing                          	Ed Sheeran                    	119.988
+1lnmoTU9AuF9CqJa8nDdo7  	Tension                       	Fergie                        	109.957
+1kxyZ2SpflM1ogD0B5hgfX  	Can't Believe It (feat. Pitbull)	Flo Rida                      	123.988
+1QzFhzIOW7CyRJLpmq5CM0  	Counting Stars                	OneRepublic                   	121.941
+06f2FAciQtS4buXpLCbwrO  	Boom Boom                     	Justice Crew                  	125.927
+20dJUFrfY0TBZ7HHhJgjsg  	Sax                           	Fleur East                    	117.976
+6giHzoNmL0kwyBZAXGIIc2  	Miss You                      	James Hersey                  	120.011
+2a1o6ZejUi8U3wzzOtCOYw  	Danza Kuduro                  	Don Omar                      	88.917
+0lQ08hbjK1umHjCYvUrmCp  	Here It Is (feat. Chris Brown)	Flo Rida                      	123.01
+3IeCYkdKI55mNMl2o4vX0k  	Bust A Move                   	Young MC                      	116.972
+1pI0UV8zAolSGiAJljPKJe  	It's About That Walk          	Prince                        	129.915
+1aPqexHVW20OTamBHdWWVL  	Undress Rehearsal             	Timeflies                     	122.997
+5bQQfTMC6llwf4sgeiTNyc  	Swanee - Remastered           	Aretha Franklin               	126.961
+1eV2FGbbyxCJ6xaLqBRiFW  	Just Got Paid                 	*NSYNC                        	114.842
+7r99RxtSnML9oZ6imPXOid  	The Wild Life                 	Outasight                     	115.033
+4W0KyxYr38W8Egg2Aadovz  	Bakersfield Blues             	Brother Yusef                 	134.594
+7py16W5fWYLFFS6BElKAjn  	Tears (feat. Louisa Johnson)  	Clean Bandit                  	130.037
+7gg8MoGsKe1dRnSvxVpP00  	Fresh Eyes                    	Andy Grammer                  	122.052
+16QN8cBubEq706vNtPpOME  	Love So Soft                  	Kelly Clarkson                	130.012
+444P4wvSDa0SD5HE4YGx9B  	Come Get It Bae               	Pharrell Williams             	120.162
+5zDQlhcJ5KOoXeSMGwiuJY  	Give It 2 U                   	Robin Thicke                  	127.185
+1rFMYAZxBoAKSzXI54brMu  	You Don't Know Me - Radio Edit	Jax Jones                     	123.999
+1NkwZ9TnIs8js6G0M6M7RU  	Kissing Strangers             	DNCE                          	120.065
+0a3ycm3Izx52W7Dekpp5rB  	Booty Music                   	Git Fresh                     	120.014
+6S6mI7X1KvPXlDU7usopBn  	Back On It                    	Bad News Brown                	122.055
+7cGr5XY2pfj9b4UngCktG0  	Black Sheep                   	Gin Wigmore                   	119.024
+13mvD9MoPBoskbqOHkBZHK  	I Don't Need It               	Jamie Foxx                    	116.99
+3AGOgQzp0YcPH41u9p7dOp  	Glad You Came                 	The Wanted                    	126.877
+5jmGXGD7wh45Ye5DYzHJcq  	Guilty                        	Timeflies                     	132.101
+1KcnJTiXJXAqW5bB7zpkBC  	SummerThing!                  	Afrojack                      	130.053
+0kThmY7A0ynir2qLWFFhrY  	On The Loose                  	Niall Horan                   	124.025
+6lUY6MoqGgPnA27PHYxem5  	Bulletproof                   	La Roux                       	122.985
+0BB9eUBBaaX6GALSYNcEp7  	You Spin Me Round (Like a Record)	Dead Or Alive                 	128.103
+6h5PAsRni4IRlxWr6uDPTP  	More Than You Know            	Axwell /\ Ingrosso            	123.077
+5dLyEnwjKILNHjHcasLwmx  	Feelings                      	Maroon 5                      	121.998
+1qBbKc9DgAaXlRjBJIxrh5  	Shake                         	Pitbull                       	117.994
+19uho7noXqrSJk5d0MxPHy  	Two Left Feet                 	LZ7                           	127.988
+6akBo2R423TCWPNuJd6C6W  	Surface                       	Miavono                       	125.036
+3bH4HzoZZFq8UpZmI2AMgV  	New Light                     	John Mayer                    	123.931
+6XLUlVeCNo4T7Gvkmy6NmC  	Plans (feat. Brandyn Burnette)	Elephante                     	123.939
+0CAfXk7DXMnon4gLudAp7J  	Low (feat T-Pain)             	Flo Rida                      	128.008
+5JdhojQ6h2Cy2t6uH5jPAa  	Tripping Off                  	Kungs                         	123.999
+1I6pKIyaBp4OebTGLJpCCC  	Perm                          	Bruno Mars                    	124.021
+2fQxE0jVrjNMT9oJAXtSJR  	Domino                        	Jessie J                      	126.986
+0j2O6RH0weEh6i3YFBqfuo  	Dirty Mind (feat. Sam Martin) 	Flo Rida                      	115.071
+5OMwQFBcte0aWFJFqrr5oj  	TiK ToK                       	Kesha                         	120.032
+3SEkzQLbiYvYZHbhc1tXn4  	Semi-Charmed                  	Timeflies                     	119.993
+4Qc2jIhv8bLQfw4N7GJARB  	Bitch Better Have My Money    	Karmin                        	120.003
+7n6ibfsRHhCb1Ccl9Fg2CZ  	Scream & Shout                	will.i.am                     	130.009
+7cv28LXcjAC3GsXbUvXKbX  	I Will Survive - Extended Version	Gloria Gaynor                 	116.66
+4zIaXqKCXZs02eB6jEe5Mf  	Mr. Saxobeat - Radio Edit     	Alexandra Stan                	127.047
+6r2BECwMgEoRb5yLfp0Hca  	Born This Way                 	Lady Gaga                     	123.907
+5ECRlF2VFIdZYoY783Wxgp  	Sweet Dreams (Are Made of This) - Acoustic	ortoPilot                     	125.038
+4mli7gZF1qwTnL36lXuKWy  	Move Like U Stole It          	ZZ Ward                       	117.982
+7AqISujIaWcY3h5zrOqt5v  	Forget You                    	CeeLo Green                   	127.39
+4ycLiPVzE5KamivXrAzGFG  	Fuck You                      	CeeLo Green                   	127.43
+6D36mukdSSbtZrdKlVsYRP  	Rack 'Em Up                   	Jonny Lang                    	124.64
+2dR5WkrpwylTuT3jRWNufa  	Fly Me To The Moon - Remastered	Frank Sinatra                 	119.342
+6cIGKs4Y33jby1ZbRXIpnV  	Stronger                      	Clean Bandit                  	125.03
+0j77ikAaghcss4idQVcAXT  	Boys                          	Lizzo                         	120.042
+153bdmJl6Nc8VPKUrfGnWH  	That's It (I'm Crazy)         	Sofi Tukker                   	115.094
+6JOlNkT0QdHeZB0wPbI9IR  	Turn Me On (feat. Nicki Minaj)	David Guetta                  	127.954
+2njUxZ4151DWIrfIK3loFj  	COPYCAT - Sofi Tukker Remix   	Billie Eilish                 	124.999
+2NF8A7C6tICScdRaZ0BrEe  	Katchi (Ofenbach vs. Nick Waterhouse)	Ofenbach                      	124.988
+03oK265y87YNXHIQSOAWOp  	Love Is Gone                  	David Guetta                  	127.99
+6XkH3f2bXxEdbdRF5y0igm  	Don't Stop Movin'             	S Club 7                      	117.013
+73m8WuJlhzVusTVzJCGaDZ  	Fever                         	Elvis Presley                 	122.78
+6lNUcaF7Q926aGn37lyRlv  	Spankin' Leroy                	Lucky Peterson                	129.0
+0v3BMLcwUmAwyqJaf5997o  	Just Got Paid                 	Sigala                        	120.0
+55S2PQgSMYAhgoTCcGCDfw  	Youngblood                    	5 Seconds of Summer           	120.0
+4EaBMhUIOfnFEbIgqCfKbi  	The Phantom Of the Opera      	Andrew Lloyd Webber           	120.0
+29D21EkaWqgUubnXEYZwUp  	Could                         	Elderbrook                    	200.646
+118kolZnbJBQvbOl0D4C71  	Daydream In Blue              	I Monster                     	153.721
+6WhzFzROw3aq3rPWjgYlxr  	Gold                          	Kiiara                        	113.049
+3Mf5lroDtECoRWVUWnHCo8  	Twerk It Like Miley           	Brandon Beal                  	68.055
+2Kwnoh0xxbbfFfkO7pNKOS  	Ain't No Friend Of Mine       	Vali                          	93.997
+03f7xZmt2wHCIDJBFPK8G4  	Soap                          	Melanie Martinez              	168.112
+26uvxEx1s0Q115Iml0q7ms  	Fire                          	alxxa                         	187.992
+1paYzWa1GyUIGOiwqun9vV  	Infinite High - Bee's Knees Remix	Panama Wedding                	94.904
+3uD008epVheNfGjnZCKDRg  	Man On The Moon               	POWERS                        	92.003
+3qhobDAfBcVoOWZP8Ck8R2  	Ophelia                       	The Lumineers                 	76.023
+6i0V12jOa3mr6uu4WYhUBr  	Heathens                      	Twenty One Pilots             	90.024
+3QQH3sINjCT91WavuMwn6S  	Sweat                         	Popa Chubby                   	86.015
+2QgNcjwEn0vGmTommfszQd  	Lose It                       	Oh Wonder                     	87.554
+1lntL1cI2UIWlxjL5QiN8g  	The Other                     	Lauv                          	179.629
+2dLLR6qlu5UJ5gk0dKz0h3  	Royals                        	Lorde                         	84.778
+5masKPHeAOVNgxdLebIcK7  	Stole the Show                	Kygo                          	99.879
+4PxDHEEyHgYC6NUgqMtDFy  	Bom Bidi Bom - From "Fifty Shades Darker (Original Motion Picture Soundtrack)"	Nick Jonas                    	86.995
+5A6BJLZArq1MPjsnmcuk5f  	Lights Down Low               	MAX                           	81.019
+152lZdxL1OR0ZMW6KquMif  	Location                      	Khalid                        	80.126
+0UoLKEUBiLdjDY6HHzwB2B  	Overnight (feat. Trombone Shorty)	Zac Brown Band                	89.949
+545N4UQoXPVZkEsvPnO0bV  	Human - Marian Hill Remix     	Aquilo                        	84.95
+5IykAS6igTYF7Bv8zGdW7h  	Person I Should Have Been     	James Morrison                	78.951
+1gk3FhAV07q9Jg77UxnVjX  	Gooey                         	Glass Animals                 	183.114
+0y1QJc3SJVPKJ1OvFmFqe6  	Way Down We Go                	Kaleo                         	163.255
+5CgoEznSea3jEFHdhMC0Dr  	Knockin'                      	Carolina Chocolate Drops      	83.198
+3GKSfF6c3Rv3a1knSjxnXa  	Nina                          	Ed Sheeran                    	92.013
+3CRDbSIZ4r5MsZ0YwxuEkn  	Stressed Out                  	Twenty One Pilots             	169.977
+0AN91FSgGw0nmOVcpD9q7l  	All Time Low                  	Jon Bellion                   	90.246
+2fgtpSoWQJ4CpzKppSp5zI  	Good Enough                   	Elderbrook                    	89.045
+1UQfMZ9AIW38YBrcgUpwkP  	Heartattack And Vine          	Tom Waits                     	89.466
+6UiRbzRaS9LHZTHSfvn1jx  	Back To Me                    	Marian Hill                   	84.945
+5pY3ovFxbvAg7reGZjJQSp  	I See Fire                    	Ed Sheeran                    	76.031
+27vTihlWXiz9f9lJM3XGVU  	Slow Hands                    	Niall Horan                   	85.899
+2jdAk8ATWIL3dwT47XpRfu  	Slow Dancing in a Burning Room	John Mayer                    	134.15
+45UEIcQLywCvygwnNuyIAT  	Happy Ever After              	Gin Wigmore                   	70.975
+45aoPg0N09GH7P6g0EtpmQ  	Diamonds                      	Madilyn Bailey                	91.887
+0aOluBqXYd0rFSCsgDyAWX  	Take Me to Church             	Hozier                        	128.945
+4iSN72L6xCM7vQZR2I9Suz  	Liability                     	Lorde                         	75.67
+1Z4UKak2eNteHFZkwiYPNz  	One Time                      	Marian Hill                   	159.827
+3jfr0TF6DQcOLat8gGn7E2  	Do I Wanna Know?              	Arctic Monkeys                	85.03
+34sDORmUoRqa4gO9awaryf  	Close Your Eyes               	Lily Allen                    	87.0 
+57AQnEbQgoz2q7N9zmtpEl  	Do You Remember               	Jarryd James                  	72.105
+50NEZSNLGu473nFv5Or6gg  	When It Comes To Us           	Frances                       	86.007
+5m77d1ztVTdZN9FevK9TE1  	I Want You                    	Marian Hill                   	116.096
+0FTma0KbRqXuGvXtNNzcz3  	Almost Over                   	Aquilo                        	83.33
+6TpowNTagUJ7f8ctFFCVN8  	Cringe - Stripped             	Matt Maeson                   	119.671
+4h0zU3O9R5xzuTmNO7dNDU  	Lost Boy                      	Ruth B.                       	123.994
+13HVjjWUZFaWilh2QUJKsP  	Let It Go                     	James Bay                     	147.464
+5kqIPrATaCc2LqxVWzQGbk  	7 Years                       	Lukas Graham                  	119.992
+5eCkuGPZNl4mISFNPgr3Dd  	Down                          	Marian Hill                   	113.301
+1smJSvifgvmlf7JPB2LkQh  	Cinco                         	Ofelia K                      	124.982
+1lbgPy6qUbszFfZwQVec97  	Intrigued                     	Nico & Vinz                   	84.023
+1p0ziArbexSnA0FK2bhEsu  	Technicolour Beat             	Oh Wonder                     	130.11
+3Ua2DhGrdRLNYHwl3B0vOY  	Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007	John Mayer                    	172.638
+7cPglGvAJ6NsjBYjxepwwI  	Little Bit of You             	Kevin Garrett                 	89.925
+2DyOeiu42RDou7a8bAK7o0  	White Noise                   	Ella Vos                      	137.924
+6d31RphphWRjT1W91fqPKz  	Milk & Honey                  	G-Girls                       	150.01
+0T8dNUoyjJHM2zDgIPK83L  	Pregnant                      	Phlake                        	79.154
+2ZE3DJuizYTad2S4CvRRhK  	Easy Love                     	Lauv                          	137.001
+5fa6CrQwHwthEoCvTtd5Ig  	Let Her Go                    	Jasmine Thompson              	131.479
+5yCkBa9d8D71jeQZZNZe51  	Badi Boum (feat. Tsunami)     	Felix Snow                    	114.638
+1wFIjJSHobXpNDbSfe8Gdb  	River                         	Ibeyi                         	153.547
+4m6ObZmZ7wnyrKtmLvlyVE  	Feel It Still - Medasin Remix 	Portugal. The Man             	157.686
+7a3ZYv2keASQkwzkeTr7na  	Lunagirl - Original           	Lunaman                       	95.01
+2Ag3LUfgpN6ymEMwDOqKdg  	Lovit                         	Marian Hill                   	77.993
+63OC8cNa4ZnFB3bbvbWCOc  	Black Mambo                   	Glass Animals                 	79.954
+66sSF6o0aSTovQOagZljrD  	Her Favorite Song - Oliver Remix	Mayer Hawthorne               	90.0 
+3Bir71PVDu4dqWIjlb9we3  	Between the Lines             	Francis Novotny               	90.361
+43XkZyJtryNEi2scyNoHKw  	Touch                         	Matt DiMona                   	89.903
+42nkVBjWYVhiijbof5zySm  	Indian Summer                 	Jai Wolf                      	84.992
+1CYiC5bLfwoHsvSpisiOto  	Get Low                       	James Vincent McMorrow        	149.997
+37wEO1tMMGLFwCIkJw7Ltk  	Black Velvet                  	Tenille Arts                  	119.808
+4ygNJLjf6J6X91VPExX0Ee  	Secret - Demo                 	Maroon 5                      	88.6 
+3LGxef3inmn5jMLGDz9lqw  	Send My Love (To Your New Lover)	Adele                         	164.023
+1oWwA79Sm3ePnwnF8CIIWj  	Royals                        	Jasmine Thompson              	173.788
+6RjW45KHJ6kgI2xQ1aFa52  	Acapella                      	Karmin                        	169.865
+1As5y0tJHM81gCswPeGRt2  	reservoir                     	Johan                         	179.997
+1DFPa56IGnXfPWrEASC8i8  	Woman                         	Elderbrook                    	89.967
+1oxPrSHvcFiX9cqiQXCIHE  	Take It From Me               	KONGOS                        	172.915
+67DhBvuKOKtlkp4NlOVpV4  	Adrenaline                    	Lauv                          	94.938
+1SWxnCoq4zg2dz2rwN2bEe  	Amateur at Love (Remix) [feat. Kardinal Offishall]	Karl Wolf                     	95.068
+7znZvX0Mt6NBmaI8VCPurT  	Gangsta                       	Kat Dahlia                    	150.176
+5mvKuE9Lf9ARVXVXA32kK9  	Price Tag                     	Jessie J                      	175.038
+3GlcH544cl8c24886zoKfM  	Thinking 'Bout You            	Dua Lipa                      	90.973
+1GSTBIQ9omQSZ6ES12pkQ0  	Suitcase                      	Mary J. Blige                 	160.055
+3PnG8pkHSk1BQUVMaE9gLB  	Tetris                        	Brika                         	179.373
+1w48OSxbTqPKQvPeNlX8I9  	Caught In The Crowd           	Kate Miller-Heidke            	169.913
+0BX5dmsZNBoZQsoWe1uVAK  	Shrug                         	Christina Grimmie             	83.02
+1mZF9TEc7gpw7by7NCZSKr  	3 Strikes                     	Terror Jr                     	106.824
+1xh4v9oWzkoujBVATHVJF6  	Lose Control / Let Me Down    	Keri Hilson                   	90.79
+0OwX5aROoW1Iip8FV51Efg  	Alarm                         	Anne-Marie                    	146.928
+1Aod4SmVqY8rygd2wix88c  	Falling                       	Jamie McDell                  	83.955
+3O2MsMZHCgSbRGEca5ML1N  	Rhythm Inside                 	Loïc Nottet                  	90.008
+3BtA1koBtnClfirgg4BpjI  	Thief                         	Ansel Elgort                  	89.996
+1csB4kgdyglOQdH0EyFIqy  	Say Love                      	James TW                      	84.038
+01uqI4H13Gsd8Lyl1EYd8H  	Same Love - feat. Mary Lambert	Macklemore & Ryan Lewis       	84.958
+0U0ldCRmgCqhVvD6ksG63j  	Nightcall                     	Kavinsky                      	91.053
+7bAnVCZJNCAWRkVPdSUabv  	Marvin & Miles - Blue Note Version	Gare Du Nord                  	92.985
+2MgSSYAYSPxHigtjdW74nT  	No Diggity                    	Oli Brown                     	183.684
+2TFvtMv4CsuZB1tl8fc2Pw  	Sexy Plexi                    	Jack Johnson                  	185.0
+3DamFFqW32WihKkTVlwTYQ  	Fireflies                     	Owl City                      	90.0 
+64TK3dY5flGUv1llwLr1IA  	Until You Come Back To Me (Acoustic Version)	Hil St. Soul                  	174.0
+3FKp7QAJoLHPsywOp6UvMH  	Curbside Prophet              	Jason Mraz                    	178.0
+6LoQHIo74tOzQ8EsLEkhgF  	Come & Get It                 	Selena Gomez                  	80.0 
+5KcNrNNX14xcSsARxQGdSo  	Brandy in the Summertime      	Emily Elbert                  	77.0 
+6F5c58TMEs1byxUstkzVeM  	Roar                          	Katy Perry                    	180.0
+015Y3MiBzCNre0K7UY5tvE  	Get Lucky                     	Naughty Boy                   	180.0
+3AnqxeWUpUDhFK4iWgQTDo  	Berzerk                       	Madilyn Bailey                	87.0 
+5nugxvd978uqqJOa7d4E0T  	Give You What You Like        	Avril Lavigne                 	79.0 
+3k2MldR3hn0PvBTs7qDAQ2  	Hear Ya Say                   	Tony Lucca                    	91.0 
+5z2YdsdkDtaYNbbNLguNlC  	400 Lux                       	Lorde                         	184.0
+0ZCsrIfQLw1aMIObg34naO  	Reign                         	Bad News Brown                	90.0 
+58FlXFxa5teKzbmbuHzDOY  	Hungover                      	Emmalyn                       	94.0 
+48jKLs2qqEXKsQTmYHE0JD  	Lifetimes                     	Oh Wonder                     	146.0
+5Ph2oeskX0U9IwhsBY2zKj  	Fire                          	Gavin DeGraw                  	181.0
+5fXu45bHpBexzMfHNrRKEp  	My Party                      	Brandon & Leah                	82.0 
+0g3mziWGH7OP6lZvKq7Xpi  	Blades                        	FARR                          	147.0
+7xQIdSb1D2V6eICvkGDSJN  	Tonight (Best You Ever Had)   	John Legend                   	90.0 
+1FWolkqcWFxPLSrOXTZWsI  	Come Along                    	Vicci Martinez                	90.0 
+3kb72STxc2959ZqsTwu52i  	Ain't No Rest for the Wicked  	Cage The Elephant             	156.0
+5fo4LbJ8lOaB54wcM5wPMv  	Come First                    	Terror Jr                     	95.0 
+7pe2OKY04MW1Cunyqrai83  	Quick Musical Doodles         	Two Feet                      	170.0
+17txou7v6Jxrwm4SGBKdBu  	Her Life                      	Two Feet                      	90.0 
+3dhjNA0jGA8vHBQ1VdD6vV  	I Feel It Coming              	The Weeknd                    	93.0 
+5Gk0ZZ9b887U85L69rz6tu  	Get Some                      	Ghosted                       	123.0
+00gFqLpj2VzrBbl7BgAA8G  	Skin                          	Carmody                       	92.0 
+0mOrDo4IHjjKV0CSrtkFdw  	Rebound Chick                 	Nelson Freitas                	85.0 
+5g7rz8nma2gAaEBHlvT68N  	Aicha                         	Outlandish                    	87.0 
+0ARK753YaiJbpLUk7z5yIM  	Dilemma                       	Nelly                         	168.0
+3rMsX63C0IZVnOT5LGYoTH  	Russian Roulette              	Rihanna                       	80.0 
+5blxCItxB2A0AGH2pIwFFz  	...Baby One More Time - Remastered	Britney Spears                	93.0 
+4P73ZBrXOmsZA6WXsuxUC1  	Got It                        	Marian Hill                   	82.0 
+6re2wfSQbSFqQDeTxImshl  	Don't Let Go                  	Strong Asian Mothers          	160.0
+34gCuhDGsG4bRPIf9bb02f  	Thinking Out Loud             	Ed Sheeran                    	79.0 
+54Yappwod1fELR5zb2gDBn  	Morning                       	Marc E. Bassy                 	108.0
+6b495QgoB0fvzKAMugkMwt  	Want Your Love                	Sickick                       	96.0 
+6gGBL1uMBcNUOzSYfKreID  	Had Some Drinks               	Two Feet                      	85.0 
+6V86IgjOfZ3jLsngkTmG3A  	You Can Leave Your Hat on     	Joe Cocker                    	176.0
+4Vc3bzFxXdrABa2DxgyCMT  	Work Song                     	Hozier                        	121.0
+4z8ssgZfs5TzKiO8HaGWXO  	E.T.                          	Katy Perry                    	150.0
+7jLAc1i83pXp5rvhbreYNS  	Blooz... First Thaingh 'Dis Moanin'	Wycliffe Gordon               	123.0
+42RDPyJtbXMXTrWmQnu8z5  	Fifth of Whiskey, Case of the Blues	Mike Griffin                  	83.0 
+4XaButfzRGK9aK8NN28Ie0  	Horns                         	Bryce Fox                     	156.0
+1eGYirwbCEhehpvytx7BRd  	Come Together                 	Michael Jackson               	90.0 
+0kESaEffDbRoH8H89RtYib  	Peak                          	Anne-Marie                    	134.0
+37E67w4QO3X94n2E4acUbU  	Do You Still Feel? (feat. MAX)	Rain Man                      	80.0 
+2Th9BGKvfZG8bKQSACitwG  	It's Strange (feat. K.Flay)   	Louis The Child               	86.0 
+5SUgi16ky5XRNZwWjsjkLl  	Lady                          	Noé                          	140.0
+2j1zYaCXkvrMjz7JCvccJi  	No Less                       	SG Lewis                      	92.0 
+6j236RwzFFj4wqH2tWJNBD  	5 O'Clock                     	T-Pain                        	167.0
+7d78grkC9XhKXKJf44so32  	Peel Me A Grape               	Diana Krall                   	89.0 
+0Zg4tjgfqw9qzq7lXX2sUM  	Hazey                         	Glass Animals                 	90.0 
+5mLcaGVV89H58FWJ677E6K  	Worry                         	Jack Garratt                  	90.0 
+3QWjljChcOMkRDYSzF33Qr  	Whippin (feat. Felix Snow)    	Kiiara                        	83.0 
+0EGimDsVVwrVAh6c9oZ9T7  	Hound Dog - The Voice Performance	Kylie Rothfield               	126.0
+0v2xc2Vrf37rvSkgl99ycg  	Callin' U                     	Outlandish                    	90.0 
+6LCy7coV76nB2aNI7bhrVW  	Subtle Thing                  	Marian Hill                   	83.0 
+4WH2PelEpTVSuglBbz65gN  	Somebody Special              	Nina Nesbitt                  	172.0
+0FAWOk232uaut7biMWsEyW  	Harder Better Faster Stronger 	Willa Amai                    	90.0 
+6DHraaviL8B3NksCbxFaOf  	Testify                       	Citizen Four                  	168.0
+0bRXBPQ4uL0N3aGV8SVIk7  	Let Me Touch Your Fire        	A R I Z O N A                 	158.0
+672amoeenDyj593OhDRgak  	Angel Zoo                     	Phlake                        	80.0 
+3HT8HCYGYXaAUH6SKNBaS0  	Knives                        	Matoma                        	136.0
+72oSVbLj6u23KzZdjuGEe1  	these are my friends          	lovelytheband                 	85.0 
+016jMrTAKPT7Xu6X19xdTM  	Grandma's Hands               	Meg Mac                       	78.0 
+7kr3xZk4yb3YSZ4VFtg2Qt  	Acoustic                      	Billy Raffoul                 	76.0 
+7bkVl0CUI3x8qeuyiaMr8j  	Jealousy                      	San Cisco                     	178.0
+2cX2UsxVhtx9iPbmY1VjqP  	Valleys                       	Honors                        	80.0 
+4VRPmNDTHRKjc1i4MyY4uk  	Stayin' Alive                 	Say Lou Lou                   	88.0 
+1Fxoyd2idZqZBcKdhSf72S  	Chandelier                    	Anne Sila                     	174.0
+6JzHbcvhnuhcuAmX1ksOxA  	On The Rocks                  	Grieves                       	180.0
+5bIV0X5jTmFPrTNMF4HLmF  	679 & No Diggity              	Jackson Breit                 	90.0 
+7GY5op4ZHpnlr2fKqcCo9H  	&burn                         	Billie Eilish                 	83.0 
+2jNo4Xerk6uyTajgdiKcAJ  	Walls Down                    	Jhameel                       	120.0
+0pqnGHJpmpxLKifKRmU6WP  	Believer                      	Imagine Dragons               	125.0
+0NB5rU2moa9As7KuCzIKGp  	Can't Stop Thinking About You 	Martin Sexton                 	179.0
+6BVBkKpZK09NmifUMZqj1z  	Every Other Freckle           	alt-J                         	144.0
+4UXIUeistNzMseqDtgWA6d  	DLZ                           	TV On The Radio               	176.0
+6ejNhDv0QjCcx7g5v4LrqT  	Memories                      	Lewis Del Mar                 	138.0
+3VKRIkKcqUv0RT8L021JYY  	Beg                           	Jack & Jack                   	90.0 
+3oPfJnT3jMFixktiN6f9Oj  	Love Potion #9                	Dan Barrett                   	92.0 
+3xgK660fsZH7ZDcOMfIdfB  	Jungle                        	X Ambassadors                 	78.0 
+3mRLHiSHYtC8Hk7bzZdUs1  	River                         	Bishop Briggs                 	63.0 
+2HaYSyjZmqhFVviYOakAth  	Burn the House Down           	AJR                           	184.0
+2Hi8MJtgpoLXsxE99zBsEj  	Sweet Melodies                	Lizzy Land                    	160.0
+5CMwPpitl1957fShdMthEE  	Stand Tall                    	SIAS                          	85.0 
+23V08GxMeaZNSf8Gy6KF6t  	Spooky, Scary Skeletons       	Andrew Gold                   	77.0 
+79Hy8D440T4YrpEfwlL7qb  	Things I'd Do for U           	Astronomyy                    	82.0 
+1J5rHMEvQFpM07iLULi48A  	back again                    	flor                          	85.0 
+5hgnY0mVcVetszbb85qeDg  	Partition                     	Beyoncé                      	186.0
+2dRvMEW4EwySxRUtEamSfG  	The Heart Wants What It Wants 	Selena Gomez                  	83.0 
+1T575AhHueYinKSDflEsGK  	Heaven                        	Julia Michaels                	200.0
+6fFTPGGItuEpjwXRUIr4rk  	comethru                      	Jeremy Zucker                 	94.0 
+3Ddnza3zjP7225dtu8EIAR  	Sleep Like a Baby             	Jax                           	91.0 
+0Xe3C9GFIcEAiOw5ryA6y7  	Holding You                   	Great Good Fine Ok            	176.0
+1pprKKjpoMYI3J1S49IGCg  	Sad Song                      	Parson James                  	89.0 
+48Hh6mW1u9YDUKLOqS00FG  	Hoodoo Man Blues              	Colin James                   	136.0
+6SEDE7wvAnAtfdhu1zbUzi  	Hands On You                  	Ashley Monroe                 	95.0 
+4yE1Hf07JZCwivN8jKTCHs  	Differently                   	Marian Hill                   	94.0 
+2VmA7bm5ECiYZfw7x4Nzku  	Runaway                       	Ed Sheeran                    	95.0 
+7DIiWK2GkIWO1r7f4loNjz  	Raw Emotions                  	Stolar                        	132.0
+6flpKpHgvh6jHcN3rhFFlt  	Sadboy                        	Naaz                          	103.0
+6MjyB01eNCjBAXbXWDSvju  	Lemonade (feat. Mike Posner)  	Adam Friedman                 	90.0 
+1xRzUJOOUJjiZ6keorbJbg  	Muévelo Loca Boom Boom       	Pitbull                       	106.0
+4uOEAeLLQpoTE6nUcOOFcf  	Silent                        	FRAUDS                        	96.0 
+3jgHbzkc4EPLA9vb7S6l5a  	Stand Up                      	Tilka                         	148.0
+28nrOocj11pS0UVH2VM6b5  	LET YOU BE RIGHT              	Meghan Trainor                	105.0
+2dpaYNEQHiRxtZbfNsse99  	Happier                       	Marshmello                    	100.0
+526IbLPHnkxCowePIcls7e  	Cool With It                  	Alida                         	106.0
+57JVGBtBLCfHw2muk5416J  	Another One Bites The Dust - Remastered 2011	Queen                         	110.0
+7nlcbkEXx7sgWsU2NsGDdF  	Ragdoll                       	Lucy Woodward                 	92.0 
+0Y4hwUppbGc8aIBmiTz30A  	Familiar                      	Liam Payne                    	93.0 
+4xCnbriVshXMhDhjBvQROZ  	Love On Top                   	John Jorge                    	92.0 
+6FhQ6UH6m0mlXRLFiyehFR  	Intention                     	Kiiara                        	90.0 
+3okdJc9o2k1Bj5OnYOJTga  	So Simple                     	Marc E. Bassy                 	92.0 
