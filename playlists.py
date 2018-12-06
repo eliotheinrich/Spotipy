@@ -37,6 +37,7 @@ def gen_playlist(b,N, bstd = 10):
             sgn = np.sign(s.bpm - b)
             w = np.zeros(my_playlist.size)
             for n,s in enumerate(my_playlist.songs):
+                s = my_playlist.songs[s]
                 if s.bpm > b + sgn*bstd:
                     w[n] = True
                 indices = np.where(w)[0]
@@ -53,9 +54,14 @@ def gen_playlist(b,N, bstd = 10):
 
 def main():
     spotify = loadsongs.get_authorized()
+    #pl = loadsongs.load_playlist()
+    #s = pl['1VxnTTuw291SryXGcKY2H5']
+    #print(s.name)
+    
+
+
     pl = gen_playlist(100, 30)
     pl.display_songs()
-    print(pl.avg_bpm())
 
 if __name__ == "__main__":
     main()

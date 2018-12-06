@@ -13,7 +13,7 @@ class Song():
 # artists (str): Primary artist of a song
 # bpm (float): beats per minute of a song as determined by Spotify audio analysis
 # time (float): length of song (in seconds)
-    def __init__(self, ident, name, artists, bpm, time = 0.):
+    def __init__(self, ident, name, artists, bpm, time = 0., num_plays = 0):
         self.ident = ident
         if isinstance(name, unicode):
             name = name.encode('utf-8').strip()
@@ -23,6 +23,7 @@ class Song():
         self.artists = artists.replace('\t', ' ')
         self.bpm = float(bpm)
         self.time = float(time)
+        self.num_plays = num_plays
 
     def __eq__(self, other):
     # Overloaded == operator; if rhs is Song instance, check if Songs have equal idents
@@ -35,34 +36,35 @@ class Song():
 class Playlist():
 # Playlist class is a wrapper class for a np.array of Songs
 # Contains several helper methods for managing this array
-# songs (np.array): np.array of songs
+# songs (dict): dict of songs, key is the ident of the song
 # size (ing): length of songs
-    def __init__(self, songs = np.array([])):
-        self.songs = np.array(songs)
-        self.size = songs.size
+    def __init__(self, songs = {}):
+        self.songs = songs
+        self.size = len(songs)
 
     def avg_bpm(self):
     # Returns average bpm of Songs in songs
         b = 0.
-        for s in self.songs:
-            b += s.bpm
+        for ident in self.songs:
+            b += self.songs[ident].bpm
 
-        return b/self.songs.size
+        return b/self.size
 
     def total_length(self):
     # Return total run time of songs (in seconds)
-        return sum([s.time for s in songs])
+        return sum([self.songs[ident].time for ident in self.songs])
 
     def display_songs(self):
     # Prints all songs line-by-line
-        for n,s in enumerate(self.songs):
-            print(str(n) + ": " + s.name + ", " + str(s.bpm))
+        for n,ident in enumerate(self.songs):
+            print(str(n) + ": " + self.songs[ident].name + ", " + str(self.songs[ident].bpm)
+                    + ", " + str(self.songs[ident].num_plays))
 
     def add_song(self, song):
     # If song not in songs, add it and return True
     # Else, return False
-        if song not in self:
-            self.songs = np.append(self.songs, song)
+        if song.ident not in self:
+            self.songs[song.ident] = song
             self.size += 1
             return True
         return False
@@ -70,19 +72,22 @@ class Playlist():
     def remove_song(self, song):
     # If song is in songs, remove it and return True
     # Else, return False
-        if song in self:
-            self.songs = np.delete(self.songs, np.where(self.songs == song))
+        try:
+            del self.songs[song.ident]
             self.size -= 1
             return True
-        return False
-    
+        except KeyError:
+            return False
+
+
     def __contains__(self, song):
     # Overloaded in operator
     # Checks if a song is contained by the Playlist
-        if self.songs.size > 0:
-            return bool(np.where(self.songs == song)[0].size)
+        if isinstance(song, str) or isinstance(song, unicode):
+            return song in self.songs
         else:
-            return False
+            return song.ident in self.songs
+
 
     def __add__(self, other):
     # Overloaded + operator
@@ -122,7 +127,6 @@ class Playlist():
     # Overloaded indexing operator for easy access to songs from outside
         return self.songs[index]
 
-
 def get_authorized():
 # Returns an instance of Spotify with an authorized token
     try:
@@ -152,7 +156,7 @@ def load_playlist():
 
             for line in lines[1:]:
                 l = [k.strip() for k in line.split('\t')]
-                my_playlist += Song(l[0],l[1],l[2],l[3])
+                my_playlist += Song(l[0],l[1],l[2],l[3],0)
 
     except IOError:
     # Couldn't find songs.txt, don't bother
@@ -161,16 +165,18 @@ def load_playlist():
 
 def save_playlist(my_playlist):
 # Converts a Playlist object into a .txt file
-    songs = my_playlist.songs
+    songs = [my_playlist.songs[i] for i in my_playlist.songs]
     ids = [s.ident for s in songs]
     names = [s.name for s in songs]
     artists = [s.artists for s in songs]
     bpm = [s.bpm for s in songs]
+    num_plays = [s.num_plays for s in songs]
 
     idfmt = "{:<24}"
     namefmt = "{:<30}"
     artistfmt = "{:<30}"
     bpmfmt = "{:<5}"
+    numfmt = "{:<3}"
 
     with open('songs.txt','w') as f:
         f.write(idfmt.format("Song ID") + namefmt.format("Name")
@@ -179,7 +185,28 @@ def save_playlist(my_playlist):
             f.write(idfmt.format(ids[n]) + '\t')
             f.write(namefmt.format(names[n]) + '\t')
             f.write(artistfmt.format(artists[n]) + '\t')
-            f.write(bpmfmt.format(str(bpm[n])) + '\n')
+            f.write(bpmfmt.format(str(bpm[n])) + '\t')
+            f.write(numfmt.format(str(num_plays[n])) + '\n')
+
+def get_num_plays(spotify, username, playlist):
+    playlists = spotify.user_playlists(username)
+    for ident in playlist.songs:
+        playlist[ident].num_plays = 0
+
+    for i in playlists['items']:
+        if i['name'][0:8] == "Bwestie ":
+            tracks = spotify.user_playlist(username, i['id'], fields="tracks,next")['tracks']
+            for item in tracks:
+                track = item['track']
+                if track['id'] in playlist:
+                    playlist[track['id']].num_plays += 1
+        while tracks['next']:
+            tracks = spotify.next(tracks)
+            for item in tracks:
+                track = item['track']
+                if track['id'] in playlist:
+                    playlist[track['id']].num_plays += 1
+
 
 def get_playlist(spotify, name, username, my_playlist = Playlist()):
 # Given a username and a playlist name, returns a Playlist object containing all songs
@@ -198,7 +225,6 @@ def get_playlist(spotify, name, username, my_playlist = Playlist()):
 
 
         # Loading tracks from Playlist
-
         for item in tracks['items']:
             track = item['track']
             if track['id'] not in my_playlist:
@@ -233,6 +259,8 @@ def main():
     for playlist in archived:
         my_playlist = get_playlist(spotify, playlist, username, my_playlist)
 
+    get_num_plays(spotify, username, my_playlist)
+    my_playlist.display_songs()
     save_playlist(my_playlist)
 
 
