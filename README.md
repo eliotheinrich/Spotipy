@@ -1,0 +1,2 @@
+# Spotipy
+Playing with Spotipy
